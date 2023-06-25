@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    margin: 0px;
+    background-color: #D6EDFF;
+}
+#top_menu{
+    word-spacing: 13px;
+    margin-left: 250px;
+    margin-top:-50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: #B185A7;
+}
+#logo{
+    width: 150px;
+    height: 150px;
+    background-color: #D6EDFF;
+}
+#fix_1{
+    word-spacing: 1px;
+}
+#center_worlds{
+    text-align: center;
+    font-size: 26px;
+}
+
+#centr_block{
+    text-align: center;
+    font-size: 26px;
+    border: 1px solid #D6EDFF;
+    background-color: #ACD7EC;
+}

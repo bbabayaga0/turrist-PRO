@@ -1,0 +1,114 @@
+#easy{
+    border: 1px solid #D6EDFF;
+    width: 1000px;
+    height: 310px;
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    margin-left: 250px;
+}
+#dmb{
+    width: 300px;
+    height: 300px;
+}
+#text_1{
+    margin-left: 350px;
+    margin-top: -280px;
+}
+
+
+#medium{
+    border: 1px solid #D6EDFF;
+    width: 1000px;
+    height: 310px;
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    margin-left: 250px;
+}
+#kzm{
+    width: 300px;
+    height: 300px;
+}
+#text_2{
+    margin-left: 350px;
+    margin-top: -280px;
+}
+
+#hard{
+    border: 1px solid #D6EDFF;
+    width: 1000px;
+    height: 310px;
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    margin-left: 250px;
+}
+#dag{
+    width: 300px;
+    height: 300px;
+
+}
+#text_3{
+    margin-left: 350px;
+    margin-top: -280px;
+}
+
+#dombay_photo_div{
+    border: 1px solid #D6EDFF;
+    margin-left: 200px;
+    width: 1200px;
+    height: 780px;
+}
+
+#dombay_photo{
+    vertical-align: middle;
+    width: 350px;
+    height: 350px;
+    margin: 10px;
+    padding: 10px;
+    
+}
+#hr1{
+    width: 600px;
+}
+
+#north_caucasus_div{
+    border: 1px solid #D6EDFF;
+    margin-left: 200px;
+    width: 1200px;
+    height: 780px;
+}
+#north_caucasus{
+    vertical-align: middle;
+    width: 350px;
+    height: 350px;
+    margin: 10px;
+    padding: 10px;
+}
+
+#dagestan_div{
+    border: 1px solid #D6EDFF;
+    margin-left: 200px;
+    width: 1200px;
+    height: 780px;
+}
+#dagestan_photo{
+    vertical-align: middle;
+    width: 350px;
+    height: 350px;
+    margin: 10px;
+    padding: 10px;
+}
+#contact_info{
+    border: 1px solid #D6EDFF;
+    text-decoration: none;
+    height: 50px;
+    padding-left: 600px;
+    word-spacing: 10px;
+}
+#forma_1{
+    margin-left: 600px;
+    width: 400px;
+    height: 400px;
+}

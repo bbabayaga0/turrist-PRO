@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    margin: 0px;
+    background-color: #D6EDFF;
+}
+#top_menu{
+    word-spacing: 13px;
+    margin-left: 250px;
+    margin-top:-50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: #B185A7;
+}
+#logo{
+    width: 150px;
+    height: 150px;
+    background-color: #D6EDFF;
+}
+#center_worlds{
+    text-align: center;
+    font-size: 26px;
+}
+#fix_1{
+    word-spacing: 1px;
+}
+#first_comment{
+    border: 1px solid #D6EDFF;
+    width: 700px;
+    height: 250px;
+    margin-left: 150px;
+}
+#fix_2{
+    margin-left: 690px;
+    white-space: nowrap;
+    margin-top: -180px;
+}
+#avatar_1{
+    border-radius: 45px;
+    margin-left: 700px;
+    margin-top: -10px;
+}
+#first_comment_avatar{
+    border: 1px solid #D6EDFF;
+    width: 150px;
+    height: 150px;
+    margin-left: 500px;
+    margin-bottom: -250px;
+}
+
+#second_comment{
+    border: 1px solid #D6EDFF;
+    width: 700px;
+    height: 250px;
+    margin-left: 150px;
+}
+
+#fix_3{
+    margin-left: 690px;
+    white-space: nowrap;
+    margin-top: -180px;
+}
+
+#avatar_2{
+    border-radius: 60px;
+    margin-left: 700px;
+    margin-top: -10px;
+}
+#contact_info{
+    border: 1px solid #D6EDFF;
+    text-decoration: none;
+    height: 50px;
+    padding-left: 600px;
+    word-spacing: 10px;
+}
+#hr1{
+    width: 600px;
+}
